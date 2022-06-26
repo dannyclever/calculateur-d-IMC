@@ -1,7 +1,9 @@
 # calculateur-d-IMC
 
 > Practice testing JavaScript.
-> Cette mini-project calcule le IMC(indice de masse corporelle) en tapant le  nom , la taille et le poids de la personne et ensuite le logiciel present l'IMC et affiche aussi un message concernant le poids.
+
+
+ Cette mini-project calcule le IMC(indice de masse corporelle) en tapant le  nom , la taille et le poids de la personne et ensuite le logiciel present l'IMC et affiche aussi un message concernant le poids.
 
 ![screenshot](screenshot.png)
 

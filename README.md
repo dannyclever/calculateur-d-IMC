@@ -18,6 +18,6 @@
 👤 **Neto Daniel ZINGA**
 
 - Github: [@dannyclever](https://github.com/dannyclever)
-- Email: [Daniel Larbi Addo](danielnzinga5@gmail.com)
+- Email: [Neto Daniel Zinga](danielnzinga5@gmail.com)
 
 [Version live](https://dannyclever.github.io/calculateur-d-IMC/)

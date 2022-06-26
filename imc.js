@@ -35,3 +35,5 @@ function imc () {
         resultat.textContent = 'S\'il vous plait remplissez tous les champs!!!';
     }
 }
+
+calculer.addEventListener('click', imc);
